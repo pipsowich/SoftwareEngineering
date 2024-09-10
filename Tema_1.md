@@ -136,7 +136,7 @@
 
 ## 15 Настройка gitignore
 
-
+![Меню](https://github.com/pipsowich/SoftwareEngineering/blob/Tema_1/Imagies/GitIgnore.png)
 
 ## Общие выводы по теме
 При выполнении данной работы, я освоил установку python, pycharm и git на свой пк. Установка прошла успешно. 
